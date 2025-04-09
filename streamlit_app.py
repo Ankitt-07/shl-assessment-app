@@ -24,7 +24,7 @@ if st.button("🔍 Recommend Tests"):
     if user_input.strip():
         with st.spinner("Getting recommendations from FastAPI..."):
             response = requests.post(
-                ""https://shl-assessment-app.onrender.com/recommend",  # Your FastAPI endpoint
+                "https://shl-assessment-app.onrender.com/recommend",  # Your FastAPI endpoint
                 json={"query": user_input.strip()}
             )
             if response.status_code == 200:
