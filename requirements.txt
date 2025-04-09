@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+streamlit
+openai
+flask
+beautifulsoup4
+fastapi
+uvicorn
+

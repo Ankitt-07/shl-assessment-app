@@ -1,0 +1,6 @@
+name,url,remote,adaptive,duration,type,description
+Verify Java Programming,https://shl.com/java-programming/,Yes,No,40 mins,Programming Test,Tests Java programming knowledge and problem-solving.
+Verify Team Collaboration,https://shl.com/team-collaboration/,Yes,Yes,30 mins,Behavioral,Assesses collaboration and team working abilities.
+Cognitive Ability Test,https://shl.com/cognitive-assessment/,Yes,Yes,35 mins,Cognitive,Measures general mental ability.
+Personality Questionnaire,https://shl.com/personality-assessment/,Yes,No,20 mins,Behavioral,Assesses personality traits like openness and conscientiousness.
+Situational Judgement for Developers,https://shl.com/sjt-developer/,Yes,No,25 mins,Situational Judgement,Evaluates developer-specific workplace judgment.
